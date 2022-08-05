@@ -2,32 +2,33 @@
 
 #### By _**Grace Lee**_
 
-#### _A simple site that showcases Grace Lee's portfolio_
+#### _A simple HTML website that showcases Grace Lee's portfolio_
 
 ## Technologies Used
 
 * _HTML_
 * _CSS_
 * _Bootstrap_
+* _Visual Studio Code_
 
 ## Description
 
-_It is a portfolio site for Grace Lee. It includes information like education, skills, job experience, and projects that have been completed. The projects are linked. Some may include an actual site that is deployed through GitHub Pages, while others are linked to their respective GitHub repositories._
+_It is a portfolio site for Grace Lee. It includes information like education, skills, job experience, and projects that have been completed. The projects are linked. Some may include an actual site that is deployed through GitHub Pages, while others are linked to their respective GitHub repositories. In order to look at the projects listed on the site, click the name of the projects._
 
 ## Setup/Installation Requirements
 
-* _Head over to the GitHub pages that this portfolio site is deployed onto_
-* _In order to look at the projects listed on the site, click the name of the projects_
+* _Clone this repository to your desktop._
+* _Go into this project's directory._
+* _Open the index.html in your browser._
+* _Or simply click on the GitHub pages link to view in browser._
 
 ## Known Bugs
 
-* _the sidebar doesn't stay completely to the right when adjusting size of browser_
+* _the image within the sidebar does not appear_
 
 ## License
 
 MIT License
-
-Copyright (c) _2022_ _Grace Lee_
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -46,3 +47,5 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+Copyright (c) _2022_ _Grace Lee_
