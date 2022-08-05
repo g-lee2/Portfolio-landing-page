@@ -42,6 +42,7 @@
   border: 5px solid rgb(235, 153, 109);
   padding: 10px;
   width: 700px;
+  background-color: #ffd8df;
 }
 
 .mainbody h2 {
@@ -56,6 +57,7 @@
   border: 5px solid rgb(143, 191, 191);
   padding: 10px;
   width: 700px;
+  background-color: #d1faf6;
 }
 
 .secondbody h2 {
