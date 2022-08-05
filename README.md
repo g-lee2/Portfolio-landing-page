@@ -18,13 +18,13 @@ _It is a portfolio site for Grace Lee. It includes information like education, s
 ## Setup/Installation Requirements
 
 * _Clone this repository to your desktop._
-* _Go into this project's directory._
-* _Open the index.html in your browser._
+* _Go into this project's directory on your desktop._
+* _Find and open the index.html in your browser._
 * _Or simply click on the GitHub pages link to view in browser._
 
 ## Known Bugs
 
-* _the image within the sidebar does not appear_
+* _No known bugs_
 
 ## License
 
