@@ -11,3 +11,17 @@
   text-align: center;
   padding: 110px;
 }
+
+.mainbody {
+  margin: 30px;
+  margin-right: 10px;
+  border: 5px solid rgb(235, 153, 109);
+  padding: 10px;
+}
+
+.secondbody {
+  margin: 30px;
+  margin-right: 10px;
+  border: 5px solid rgb(143, 191, 191);
+  padding: 10px;
+}
