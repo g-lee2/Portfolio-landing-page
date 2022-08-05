@@ -30,7 +30,6 @@
   max-width: 40%;
   height: auto;
   border-radius: 10%;
-  text-align: center;
   padding: 117px;
   padding-bottom: 1px;
   padding-top: 1px;
@@ -43,6 +42,15 @@
   padding: 10px;
   width: 700px;
   background-color: #ffd8df;
+}
+
+.mainbody img{
+  max-width: 30%;
+  height: 20%;
+  border-radius: 10%;
+  padding: 20px;
+  padding-bottom: 17px;
+  padding-top: 1px;
 }
 
 .mainbody h2 {
