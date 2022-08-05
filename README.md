@@ -2,7 +2,9 @@
 
 #### By _**Grace Lee**_
 
-#### _A simple HTML website that showcases Grace Lee's portfolio_
+#### _A simple HTML/CSS based website that showcases Grace Lee's portfolio_
+
+#### _GitHub Pages URL: g-lee2.github.io/Portfolio-landing-page_
 
 ## Technologies Used
 
@@ -24,7 +26,7 @@ _It is a portfolio site for Grace Lee. It includes information like education, s
 
 ## Known Bugs
 
-* _No known bugs_
+* _A photo of me image not rendering on browser_
 
 ## License
 
