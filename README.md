@@ -4,7 +4,7 @@
 
 #### _A simple HTML/CSS based website that showcases Grace Lee's portfolio_
 
-#### _GitHub Pages URL: g-lee2.github.io/Portfolio-landing-page_
+#### _[Link to site on GitHub Pages] (g-lee2.github.io/Portfolio-landing-page)_
 
 ## Technologies Used
 
