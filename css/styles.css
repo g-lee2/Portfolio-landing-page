@@ -1,3 +1,8 @@
+.topsection {
+  text-align: center;
+  font-family: fantasy;
+}
+
 .sidebar {
   width: 32%;
   float: right;
@@ -12,11 +17,13 @@
 .sidebar h3 {
   text-align: center;
 }
+
 .sidebar p {
   text-align: center;
   padding-left: 10px;
   padding-right: 10px;
 }
+
 .sidebar img {
   max-width: 40%;
   height: auto;
