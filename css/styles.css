@@ -2,6 +2,7 @@
   width: 30%;
   float: right;
   background-color: rgb(196, 225, 215);
+  margin: 30px;
 }
 
 .sidebar img {
@@ -24,4 +25,16 @@
   margin-right: 10px;
   border: 5px solid rgb(143, 191, 191);
   padding: 10px;
+}
+
+.mainbody h2 {
+  font-family: cursive;
+  color: rgb(6, 8, 106);
+  font-weight: bolder;
+}
+
+.secondbody h2 {
+  font-family: cursive;
+  color: rgb(6, 8, 106);
+  font-weight: bolder;
 }
